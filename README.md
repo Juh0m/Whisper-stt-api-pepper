@@ -1,4 +1,4 @@
-# Pepper-whisper-api
+# Whisper-stt-api-pepper
 
 Usage guide
 1. Download Python 3.11 
